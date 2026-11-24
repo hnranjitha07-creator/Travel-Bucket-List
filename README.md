@@ -1,5 +1,7 @@
 # Travel Bucket List
 
+> Repository: `travel-bucket-list`
+
 A responsive React + Vite travel discovery site. Browse curated destinations, search and filter by category, save places to a persistent bucket list, mark visits, and create trip plans with dates and budget breakdowns.
 
 ## Get started
