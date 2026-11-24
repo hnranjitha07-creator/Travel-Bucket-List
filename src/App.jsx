@@ -57,5 +57,5 @@ function AppRoutes() {
 }
 
 export default function App() {
-  return <BrowserRouter><AppRoutes /></BrowserRouter>
+  return <BrowserRouter basename={import.meta.env.BASE_URL}><AppRoutes /></BrowserRouter>
 }
